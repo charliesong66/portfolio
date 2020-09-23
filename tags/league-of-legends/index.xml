@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>League of Legends on Charlie Song</title>
+    <link>https://charliesong66.github.io/portfolio/tags/league-of-legends/</link>
+    <description>Recent content in League of Legends on Charlie Song</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Jul 2020 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://charliesong66.github.io/portfolio/tags/league-of-legends/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deciding Factors in League of Legends</title>
+      <link>https://charliesong66.github.io/portfolio/post/decide_factor_lol/</link>
+      <pubDate>Fri, 03 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://charliesong66.github.io/portfolio/post/decide_factor_lol/</guid>
+      <description>In this project I tried to find out what are the key reasons a team wins/loses, and at the same time build a model predicting game results only using data from the first 10 mins. The data consists of SOLO QUEUE games at high ELO (DIAMOND I to MASTER) The algorithms used are:  Random Forest Logistic Regression Principal Compnent Analysis (PCA)  Summary of findings: The two most important statistics on winning/losing are:</description>
+    </item>
+    
+  </channel>
+</rss>

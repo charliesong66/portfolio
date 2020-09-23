@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Credit Card on Charlie Song</title>
+    <link>https://charliesong66.github.io/portfolio/tags/credit-card/</link>
+    <description>Recent content in Credit Card on Charlie Song</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://charliesong66.github.io/portfolio/tags/credit-card/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Credit Card Default</title>
+      <link>https://charliesong66.github.io/portfolio/post/credit_card_default/</link>
+      <pubDate>Tue, 01 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://charliesong66.github.io/portfolio/post/credit_card_default/</guid>
+      <description>This project aims to analyze credit card default rates. The dataset is from information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005. The method used was XGBoost, with extensive hyperparameter tuning. Key findings: the most important factors affecting credit card repayment in a given month are:  Statement amount in previous month Repayment status in previous month Amount of payment in previous month  Feature importance given by the XGBoost Model: Building a model using all data but the current month, then validate the model by making prediction on that month acheived an AUC of 0.</description>
+    </item>
+    
+  </channel>
+</rss>

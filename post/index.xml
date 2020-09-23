@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Charlie Song</title>
+    <link>https://charliesong66.github.io/portfolio/post/</link>
+    <description>Recent content in Projects on Charlie Song</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://charliesong66.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Credit Card Default</title>
+      <link>https://charliesong66.github.io/portfolio/post/credit_card_default/</link>
+      <pubDate>Tue, 01 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://charliesong66.github.io/portfolio/post/credit_card_default/</guid>
+      <description>This project aims to analyze credit card default rates. The dataset is from information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005. The method used was XGBoost, with extensive hyperparameter tuning. Key findings: the most important factors affecting credit card repayment in a given month are:  Statement amount in previous month Repayment status in previous month Amount of payment in previous month  Feature importance given by the XGBoost Model: Building a model using all data but the current month, then validate the model by making prediction on that month acheived an AUC of 0.</description>
+    </item>
+    
+    <item>
+      <title>FIFA19 Player Value</title>
+      <link>https://charliesong66.github.io/portfolio/post/fifa_player_value/</link>
+      <pubDate>Sun, 23 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://charliesong66.github.io/portfolio/post/fifa_player_value/</guid>
+      <description>In this project I tried to build a model to explain and predict the &amp;ldquo;Value&amp;rdquo; of a soccer player given his attributes, initially I build models using traditional regression methods:  Ordinary Least Squares Ridge Regression LASSO Regression Elastic Net  Later on I used a relatively new method:  XGBoost  XGBoost out performed all the regression models earlier. In the end I took a closer look at the XGBoost model and attempt to find out which attributes are more important in determining a player&amp;rsquo;s value.</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Visualisation and Analysis</title>
+      <link>https://charliesong66.github.io/portfolio/post/covid_19_visual/</link>
+      <pubDate>Sat, 11 Jul 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://charliesong66.github.io/portfolio/post/covid_19_visual/</guid>
+      <description>I have made some visualisation on COVID-19 data using Plotly, this includes views by Countries, by Continents, daily increases, daily new cases etc. The second part of this project has more in depth exploration on the situation in the U.S. by different states. Some of the plots are below: Link to Kaggle
+ </description>
+    </item>
+    
+    <item>
+      <title>Deciding Factors in League of Legends</title>
+      <link>https://charliesong66.github.io/portfolio/post/decide_factor_lol/</link>
+      <pubDate>Fri, 03 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://charliesong66.github.io/portfolio/post/decide_factor_lol/</guid>
+      <description>In this project I tried to find out what are the key reasons a team wins/loses, and at the same time build a model predicting game results only using data from the first 10 mins. The data consists of SOLO QUEUE games at high ELO (DIAMOND I to MASTER) The algorithms used are:  Random Forest Logistic Regression Principal Compnent Analysis (PCA)  Summary of findings: The two most important statistics on winning/losing are:</description>
+    </item>
+    
+  </channel>
+</rss>
